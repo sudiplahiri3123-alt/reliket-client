@@ -1,0 +1,26 @@
+{
+  "name": "reliket-client",
+  "version": "1.0.0",
+  "description": "Lightweight messaging client with producer/consumer API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "dist/",
+    "README.md"
+  ],
+  "author": "sudip",
+  "license": "MIT",
+  "keywords": [
+    "messaging",
+    "pubsub",
+    "tcp",
+    "socket",
+    "reliket",
+    "producer",
+    "consumer"
+  ]
+}
+

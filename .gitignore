@@ -1,0 +1,22 @@
+# Ignore lib folder (source files)
+lib/
+
+# Ignore build script
+build.js
+
+# Ignore everything except:
+# - dist directory
+# - package.json
+# - README.md
+# - .gitignore itself
+# - index.js (if you want to include it)
+# - node_modules (usually ignored)
+*
+
+# But explicitly allow these
+!dist/
+!package.json
+!README.md
+!.gitignore
+!index.js
+
