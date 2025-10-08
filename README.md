@@ -77,8 +77,18 @@ const { ReliketConsumer } = require('reliket-client');
 
 
 
-### f. License
+1. 📦 Download the Reliket Server ZIP and follow the instructions in README:
+   👉 https://github.com/sudiplahiri3123-alt/relitek-server/releases/tag/v20251008231808
+
+2. 📚 View the repository (source, README, release script):
+   👉 https://github.com/sudiplahiri3123-alt/relitek-server.git
+
+
+
+### License
 
 ```js
 MIT © sudtechno_master
 ```
+
+

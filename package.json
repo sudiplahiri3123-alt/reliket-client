@@ -1,6 +1,6 @@
 {
   "name": "reliket-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight messaging client with producer/consumer API",
   "main": "dist/index.js",
   "scripts": {
@@ -21,6 +21,15 @@
     "reliket",
     "producer",
     "consumer"
-  ]
+  ],
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/sudiplahiri3123-alt/reliket-client.git"
+},
+"bugs": {
+  "url": "https://github.com/sudiplahiri3123-alt/reliket-client/issues"
+},
+"homepage": "https://github.com/sudiplahiri3123-alt/reliket-client"
+
 }
 
